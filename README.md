@@ -1,4 +1,4 @@
-# Design Sevice Agency Site Desing
+# Site Design (Design Sevice Agency )
 
 Animation, Resopsive site, but no any 3rd party tool only styled-components for css
 
